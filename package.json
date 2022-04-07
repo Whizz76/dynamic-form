@@ -5,7 +5,7 @@
   "main": "path.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start":"node backend/router.js",
+    "start":"node dynamic-form/router.js",
     "build":"cd react-form && npm install && npm run build"
   },
   "author": "",
